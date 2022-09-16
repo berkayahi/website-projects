@@ -1,1 +1,1 @@
-TinDog Starting Files
+All files are uploaded in the folder.
